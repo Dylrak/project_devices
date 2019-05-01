@@ -1,0 +1,13 @@
+!SESSION 2019-05-01 21:54:33.114 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_211
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -data C:\Users\dylra\Documents\devices -product org.eclipse.epp.package.cpp.product
+
+This is a continuation of log file C:\Users\dylra\Documents\devices\.metadata\.bak_0.log
+Created Time: 2019-05-01 22:11:32.202
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-05-01 22:11:32.204
+!MESSAGE Indexed 'SX1280DevKit' (23 sources, 335 headers) in 10.85 sec: 26,097 declarations; 70,563 references; 0 unresolved inclusions; 101 syntax errors; 686 unresolved names (0.70%)
