@@ -1,10 +1,6 @@
-22:18:47 **** Clean-only build of configuration Default for project project_devices ****
-make clean 
-del *
-c:/users/dylra/.eclipse/org.eclipse.platform_4.3.2_248562372_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/make/sh: del: not found
-make: [clean] Error 127 (ignored)
-makefile:246: recipe for target 'clean' failed
- 
+15:42:21 **** Build of configuration Default for project project_devices ****
+make all 
+make: Nothing to be done for 'all'.
 
-22:18:50 Build Finished (took 2s.789ms)
+15:42:30 Build Finished (took 9s.176ms)
 

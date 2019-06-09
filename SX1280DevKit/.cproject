@@ -1,52 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
 	<storageModule moduleId="org.eclipse.cdt.core.settings">
-		<cconfiguration id="fr.ac6.managedbuild.toolchain.gnu.cross.base.150390657">
-			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="fr.ac6.managedbuild.toolchain.gnu.cross.base.150390657" moduleId="org.eclipse.cdt.core.settings" name="Default">
+		<cconfiguration id="0.936619452">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="0.936619452" moduleId="org.eclipse.cdt.core.settings" name="Default">
 				<externalSettings/>
 				<extensions>
-					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
-					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
-					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
-					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
-					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
 					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
 				</extensions>
 			</storageModule>
 			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-				<configuration buildProperties="" description="" id="fr.ac6.managedbuild.toolchain.gnu.cross.base.150390657" name="Default" parent="org.eclipse.cdt.build.core.emptycfg">
-					<folderInfo id="fr.ac6.managedbuild.toolchain.gnu.cross.base.150390657.79803006" name="/" resourcePath="">
-						<toolChain id="fr.ac6.managedbuild.toolchain.gnu.cross.base.640706950" name="fr.ac6.managedbuild.toolchain.gnu.cross.base" superClass="fr.ac6.managedbuild.toolchain.gnu.cross.base">
-							<option id="fr.ac6.managedbuild.option.gnu.cross.prefix.385296589" name="Prefix" superClass="fr.ac6.managedbuild.option.gnu.cross.prefix"/>
-							<option id="fr.ac6.managedbuild.option.gnu.cross.path.927581866" name="Path" superClass="fr.ac6.managedbuild.option.gnu.cross.path"/>
-							<option id="fr.ac6.managedbuild.option.gnu.cross.mcu.626754369" name="Mcu" superClass="fr.ac6.managedbuild.option.gnu.cross.mcu"/>
-							<option id="fr.ac6.managedbuild.option.gnu.cross.board.297707794" name="Board" superClass="fr.ac6.managedbuild.option.gnu.cross.board"/>
-							<option id="fr.ac6.managedbuild.option.gnu.cross.core.1122630522" name="Core" superClass="fr.ac6.managedbuild.option.gnu.cross.core"/>
-							<option id="fr.ac6.managedbuild.option.gnu.cross.fpu.932187541" name="Floating point hardware" superClass="fr.ac6.managedbuild.option.gnu.cross.fpu"/>
-							<option id="fr.ac6.managedbuild.option.gnu.cross.floatabi.1873111136" name="Floating-point ABI" superClass="fr.ac6.managedbuild.option.gnu.cross.floatabi"/>
-							<option id="fr.ac6.managedbuild.option.gnu.cross.instructionSet.1764293433" name="Instruction Set" superClass="fr.ac6.managedbuild.option.gnu.cross.instructionSet"/>
-							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="fr.ac6.managedbuild.targetPlatform.gnu.cross.1525883857" isAbstract="false" osList="all" superClass="fr.ac6.managedbuild.targetPlatform.gnu.cross"/>
-							<builder buildPath="${workspace_loc:/SX1280DevKit}/Default" id="fr.ac6.managedbuild.builder.gnu.cross.1367341911" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="Gnu Make Builder" superClass="fr.ac6.managedbuild.builder.gnu.cross"/>
-							<tool id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.1597377598" name="MCU GCC Compiler" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler">
-								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.1146767193" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c"/>
-								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s.175770635" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.s"/>
-							</tool>
-							<tool id="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.538093182" name="MCU G++ Compiler" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler">
-								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.2112513037" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp"/>
-								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.s.963997221" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.s"/>
-							</tool>
-							<tool id="fr.ac6.managedbuild.tool.gnu.cross.c.linker.51031154" name="MCU GCC Linker" superClass="fr.ac6.managedbuild.tool.gnu.cross.c.linker"/>
-							<tool id="fr.ac6.managedbuild.tool.gnu.cross.cpp.linker.405414402" name="MCU G++ Linker" superClass="fr.ac6.managedbuild.tool.gnu.cross.cpp.linker">
-								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1245022256" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
-									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
-									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
-								</inputType>
-							</tool>
-							<tool id="fr.ac6.managedbuild.tool.gnu.archiver.1132353804" name="MCU GCC Archiver" superClass="fr.ac6.managedbuild.tool.gnu.archiver"/>
-							<tool id="fr.ac6.managedbuild.tool.gnu.cross.assembler.1324264538" name="MCU GCC Assembler" superClass="fr.ac6.managedbuild.tool.gnu.cross.assembler">
-								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1577486954" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
-								<inputType id="fr.ac6.managedbuild.tool.gnu.cross.assembler.input.740149048" superClass="fr.ac6.managedbuild.tool.gnu.cross.assembler.input"/>
-							</tool>
+				<configuration buildProperties="" description="" id="0.936619452" name="Default" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="0.936619452." name="/" resourcePath="">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.959379861" name="No ToolChain" superClass="org.eclipse.cdt.build.core.prefbase.toolchain">
+							<targetPlatform id="org.eclipse.cdt.build.core.prefbase.toolchain.959379861.1174765161" name=""/>
+							<builder buildPath="${workspace_loc:/SX1280DevKit}/Default" id="org.eclipse.linuxtools.cdt.autotools.core.toolchain.builder.744309330" superClass="org.eclipse.linuxtools.cdt.autotools.core.toolchain.builder"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.710672854" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
 						</toolChain>
 					</folderInfo>
 				</configuration>
@@ -54,28 +25,20 @@
 			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
 		</cconfiguration>
 	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="SX1280DevKit.null.1423711414" name="SX1280DevKit"/>
+	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.debug.284396819;fr.ac6.managedbuild.config.gnu.cross.exe.debug.284396819.;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.796091752;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.846737745">
-			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="0.936619452">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.debug.284396819;fr.ac6.managedbuild.config.gnu.cross.exe.debug.284396819.;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.991377193;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.463865875">
-			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.release.746795830;fr.ac6.managedbuild.config.gnu.cross.exe.release.746795830.;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.150960620;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.957322932">
-			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.release.746795830;fr.ac6.managedbuild.config.gnu.cross.exe.release.746795830.;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.723494973;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.811299619">
-			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-	</storageModule>
-	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
-		<project id="SX1280DevKit.null.1025765360" name="SX1280DevKit"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="refreshScope" versionNumber="2">
 		<configuration configurationName="Default">
-			<resource resourceType="PROJECT" workspacePath="/SX1280DevKit"/>
+			<resource resourceType="PROJECT" workspacePath="/mbed-os-example-blinky"/>
 		</configuration>
 	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
 </cproject>

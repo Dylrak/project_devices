@@ -1,10 +1,6 @@
-22:18:50 **** Clean-only build of configuration Default for project SX1280DevKit ****
-make clean 
-del *
-c:/users/dylra/.eclipse/org.eclipse.platform_4.3.2_248562372_win32_win32_x86_64/plugins/fr.ac6.mcu.externaltools.arm-none.win32_1.17.0.201812190825/tools/make/sh: del: not found
-makefile:61: recipe for target 'clean' failed
-make: [clean] Error 127 (ignored)
- 
+15:54:03 **** Incremental Build of configuration Default for project SX1280DevKit ****
+make all 
+make: Nothing to be done for `all'.
 
-22:18:51 Build Finished (took 339ms)
+15:54:04 Build Finished (took 430ms)
 
