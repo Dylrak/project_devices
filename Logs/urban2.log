@@ -1,0 +1,1666 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2019.06.14 13:13:03 =~=~=~=~=~=~=~=~=~=~=~=
+
+13:14:47:943, -36,11
+13:14:47:943, 
+
+13:14:48:291, -36,11
+13:14:48:291, 
+
+13:14:48:639, -36,11
+13:14:48:643, 
+
+13:14:48:991, -35,8
+13:14:48:991, 
+
+13:14:49:339, -37,8
+13:14:49:343, 
+
+13:14:49:691, -44,8
+13:14:49:691, 
+
+13:14:50:039, -50,10
+13:14:50:043, 
+
+13:14:50:392, -44,10
+13:14:50:392, 
+
+13:14:50:740, -42,9
+13:14:50:740, 
+
+13:14:51:092, -46,9
+13:14:51:093, 
+
+13:14:51:440, -53,8
+13:14:51:444, 
+
+13:14:51:792, -71,8
+13:14:51:792, 
+
+13:14:52:140, -67,8
+13:14:52:144, 
+
+13:14:52:492, -64,8
+13:14:52:492, 
+
+13:14:52:840, -69,9
+13:14:52:844, 
+
+13:14:53:192, -62,10
+13:14:53:196, 
+
+13:14:53:541, -64,10
+13:14:53:544, 
+
+13:14:53:892, -77,7
+13:14:53:896, 
+
+13:14:54:240, -60,8
+13:14:54:244, 
+
+13:14:54:592, -74,9
+13:14:54:592, 
+
+13:14:54:944, -68,9
+13:14:54:944, 
+
+13:14:55:292, -72,9
+13:14:55:296, 
+
+13:14:55:644, -64,8
+13:14:55:644, 
+
+13:14:55:992, -66,10
+13:14:55:996, 
+
+13:14:56:345, -64,11
+13:14:56:346, 
+
+13:14:56:694, -69,9
+13:14:56:694, 
+
+13:14:57:046, -74,8
+13:14:57:046, 
+
+13:14:57:394, -62,11
+13:14:57:394, 
+
+13:14:57:746, -57,10
+13:14:57:746, 
+
+13:14:58:094, -55,9
+13:14:58:098, 
+
+13:14:58:446, -63,9
+13:14:58:446, 
+
+13:14:58:794, -59,8
+13:14:58:798, 
+
+13:14:59:146, -57,9
+13:14:59:146, 
+
+13:14:59:495, -66,9
+13:14:59:495, 
+
+13:14:59:847, -69,9
+13:14:59:847, 
+
+13:15:00:195, -71,10
+13:15:00:199, 
+
+13:15:00:547, -76,9
+13:15:00:547, 
+
+13:15:00:895, -73,8
+13:15:00:899, 
+
+13:15:01:247, -80,9
+13:15:01:247, 
+
+13:15:01:595, -79,8
+13:15:01:599, 
+
+13:15:01:947, -77,8
+13:15:01:947, 
+
+13:15:02:296, -88,7
+13:15:02:296, 
+
+13:15:02:648, -72,9
+13:15:02:648, 
+
+13:15:02:996, -71,10
+13:15:03:000, 
+
+13:15:03:348, -77,8
+13:15:03:349, 
+
+13:15:03:697, -78,7
+13:15:03:697, 
+
+13:15:04:049, -77,8
+13:15:04:049, 
+
+13:15:04:397, -79,9
+13:15:04:397, 
+
+13:15:04:749, -82,8
+13:15:04:750, 
+
+13:15:05:098, -83,8
+13:15:05:098, 
+
+13:15:05:450, -79,9
+13:15:05:450, 
+
+13:15:05:798, Timeout/error! No packet received.
+13:15:05:806, 
+
+13:15:06:150, -80,9
+13:15:06:150, 
+
+13:15:06:499, -84,7
+13:15:06:499, 
+
+13:15:06:847, -82,9
+13:15:06:851, 
+
+13:15:07:199, -83,9
+13:15:07:203, 
+
+13:15:07:551, -78,8
+13:15:07:552, 
+
+13:15:07:900, -86,6
+13:15:07:900, 
+
+13:15:08:252, -81,8
+13:15:08:252, 
+
+13:15:08:600, -80,10
+13:15:08:600, 
+
+13:15:08:964, Timeout/error! No packet received.
+13:15:08:969, 
+
+13:15:09:301, Timeout/error! No packet received.
+13:15:09:305, 
+
+13:15:09:661, Timeout/error! No packet received.
+13:15:09:669, 
+
+13:15:10:001, -81,8
+13:15:10:001, 
+
+13:15:10:351, -83,7
+13:15:10:355, 
+
+13:15:10:703, -82,6
+13:15:10:703, 
+
+13:15:11:063, Timeout/error! No packet received.
+13:15:11:071, 
+
+13:15:11:414, Timeout/error! No packet received.
+13:15:11:418, 
+
+13:15:11:750, -77,8
+13:15:11:754, 
+
+13:15:12:102, -78,9
+13:15:12:102, 
+
+13:15:12:454, -80,7
+13:15:12:454, 
+
+13:15:12:802, -76,8
+13:15:12:802, 
+
+13:15:13:154, -80,8
+13:15:13:154, 
+
+13:15:13:504, -74,9
+13:15:13:504, 
+
+13:15:13:852, -82,7
+13:15:13:856, 
+
+13:15:14:204, -77,9
+13:15:14:204, 
+
+13:15:14:568, Timeout/error! No packet received.
+13:15:14:572, 
+
+13:15:14:916, Timeout/error! No packet received.
+13:15:14:924, 
+
+13:15:15:256, -82,8
+13:15:15:256, 
+
+13:15:15:604, -88,5
+13:15:15:608, 
+
+13:15:15:956, Timeout/error! No packet received.
+13:15:15:960, 
+
+13:15:16:305, -80,8
+13:15:16:305, 
+
+13:15:16:657, Timeout/error! No packet received.
+13:15:16:661, 
+
+13:15:17:005, -91,5
+13:15:17:007, 
+
+13:15:17:355, -78,9
+13:15:17:355, 
+
+13:15:17:707, -84,9
+13:15:17:707, 
+
+13:15:18:055, -80,8
+13:15:18:059, 
+
+13:15:18:407, -81,10
+13:15:18:407, 
+
+13:15:18:755, Timeout/error! No packet received.
+13:15:18:763, 
+
+13:15:19:107, -83,8
+13:15:19:107, 
+
+13:15:19:456, -85,6
+13:15:19:460, 
+
+13:15:19:808, -87,6
+13:15:19:808, 
+
+13:15:20:156, -77,8
+13:15:20:160, 
+
+13:15:20:508, -83,8
+13:15:20:508, 
+
+13:15:20:856, -80,8
+13:15:20:860, 
+
+13:15:21:208, -87,6
+13:15:21:208, 
+
+13:15:21:560, -87,4
+13:15:21:560, 
+
+13:15:21:908, -86,5
+13:15:21:908, 
+
+13:15:22:260, -91,1
+13:15:22:260, 
+
+13:15:22:609, -80,8
+13:15:22:611, 
+
+13:15:22:959, -79,8
+13:15:22:959, 
+
+13:15:23:311, -79,8
+13:15:23:311, 
+
+13:15:23:659, -82,7
+13:15:23:659, 
+
+13:15:24:011, -82,7
+13:15:24:012, 
+
+13:15:24:360, Timeout/error! No packet received.
+13:15:24:364, 
+
+13:15:24:708, -79,9
+13:15:24:712, 
+
+13:15:25:060, -83,7
+13:15:25:060, 
+
+13:15:25:409, Timeout/error! No packet received.
+13:15:25:418, 
+
+13:15:25:774, Timeout/error! No packet received.
+13:15:25:778, 
+
+13:15:26:110, -81,8
+13:15:26:114, 
+
+13:15:26:462, -83,6
+13:15:26:462, 
+
+13:15:26:810, -83,7
+13:15:26:813, 
+
+13:15:27:174, Timeout/error! No packet received.
+13:15:27:178, 
+
+13:15:27:510, -79,8
+13:15:27:514, 
+
+13:15:27:862, -80,8
+13:15:27:862, 
+
+13:15:28:214, -80,9
+13:15:28:214, 
+
+13:15:28:563, -80,8
+13:15:28:564, 
+
+13:15:28:912, Timeout/error! No packet received.
+13:15:28:916, 
+
+13:15:29:264, -79,10
+13:15:29:264, 
+
+13:15:29:624, Timeout/error! No packet received.
+13:15:29:632, 
+
+13:15:29:976, Timeout/error! No packet received.
+13:15:29:980, 
+
+13:15:30:312, -75,11
+13:15:30:316, 
+
+13:15:30:664, -89,3
+13:15:30:664, 
+
+13:15:31:023, Timeout/error! No packet received.
+13:15:31:031, 
+
+13:15:31:365, -76,10
+13:15:31:365, 
+
+13:15:31:725, Timeout/error! No packet received.
+13:15:31:733, 
+
+13:15:32:065, -87,5
+13:15:32:065, 
+
+13:15:32:413, -79,10
+13:15:32:417, 
+
+13:15:32:764, Timeout/error! No packet received.
+13:15:32:768, 
+
+13:15:33:128, Timeout/error! No packet received.
+13:15:33:132, 
+
+13:15:33:464, -80,8
+13:15:33:464, 
+
+13:15:33:816, -87,6
+13:15:33:817, 
+
+13:15:34:165, -90,3
+13:15:34:165, 
+
+13:15:34:513, -86,2
+13:15:34:518, 
+
+13:15:34:866, -83,7
+13:15:34:866, 
+
+13:15:35:218, -91,6
+13:15:35:218, 
+
+13:15:35:566, -83,7
+13:15:35:566, 
+
+13:15:35:914, -81,7
+13:15:35:918, 
+
+13:15:36:262, -83,7
+13:15:36:262, 
+
+13:15:36:618, -88,7
+13:15:36:619, 
+
+13:15:36:967, -84,8
+13:15:36:967, 
+
+13:15:37:319, -81,9
+13:15:37:319, 
+
+13:15:37:667, -80,9
+13:15:37:667, 
+
+13:15:38:018, -86,7
+13:15:38:018, 
+
+13:15:38:378, Timeout/error! No packet received.
+13:15:38:386, 
+
+13:15:38:718, -87,7
+13:15:38:718, 
+
+13:15:39:069, -90,5
+13:15:39:069, 
+
+13:15:39:419, -81,8
+13:15:39:419, 
+
+13:15:39:767, -84,8
+13:15:39:771, 
+
+13:15:40:119, -85,7
+13:15:40:119, 
+
+13:15:40:471, Timeout/error! No packet received.
+13:15:40:475, 
+
+13:15:40:819, Timeout/error! No packet received.
+13:15:40:823, 
+
+13:15:41:171, -92,4
+13:15:41:171, 
+
+13:15:41:519, -85,7
+13:15:41:519, 
+
+13:15:41:871, -94,2
+13:15:41:871, 
+
+13:15:42:231, Timeout/error! No packet received.
+13:15:42:238, 
+
+13:15:42:568, -80,10
+13:15:42:572, 
+
+13:15:42:920, -79,10
+13:15:42:922, 
+
+13:15:43:270, -79,8
+13:15:43:270, 
+
+13:15:43:622, -76,9
+13:15:43:622, 
+
+13:15:43:970, -85,7
+13:15:43:974, 
+
+13:15:44:322, -78,10
+13:15:44:322, 
+
+13:15:44:669, -79,10
+13:15:44:674, 
+
+13:15:45:022, -91,4
+13:15:45:023, 
+
+13:15:45:371, -85,7
+13:15:45:375, 
+
+13:15:45:723, -80,9
+13:15:45:723, 
+
+13:15:46:071, -88,6
+13:15:46:075, 
+
+13:15:46:420, -85,9
+13:15:46:424, 
+
+13:15:46:772, -82,9
+13:15:46:772, 
+
+13:15:47:124, -83,8
+13:15:47:124, 
+
+13:15:47:472, -84,8
+13:15:47:476, 
+
+13:15:47:824, -83,9
+13:15:47:824, 
+
+13:15:48:172, -81,8
+13:15:48:176, 
+
+13:15:48:524, -89,6
+13:15:48:524, 
+
+13:15:48:872, -86,6
+13:15:48:876, 
+
+13:15:49:224, -87,6
+13:15:49:224, 
+
+13:15:49:573, -89,7
+13:15:49:573, 
+
+13:15:49:925, -86,8
+13:15:49:925, 
+
+13:15:50:273, Timeout/error! No packet received.
+13:15:50:281, 
+
+13:15:50:637, Timeout/error! No packet received.
+13:15:50:641, 
+
+13:15:50:973, -82,7
+13:15:50:977, 
+
+13:15:51:325, -74,9
+13:15:51:325, 
+
+13:15:51:677, -74,8
+13:15:51:677, 
+
+13:15:52:024, Timeout/error! No packet received.
+13:15:52:032, 
+
+13:15:52:374, -83,8
+13:15:52:378, 
+
+13:15:52:726, -87,6
+13:15:52:728, 
+
+13:15:53:076, -85,6
+13:15:53:076, 
+
+13:15:53:428, -79,8
+13:15:53:429, 
+
+13:15:53:776, -79,10
+13:15:53:776, 
+
+13:15:54:129, -74,8
+13:15:54:129, 
+
+13:15:54:476, -77,8
+13:15:54:476, 
+
+13:15:54:828, -76,11
+13:15:54:828, 
+
+13:15:55:176, -74,8
+13:15:55:176, 
+
+13:15:55:526, -78,8
+13:15:55:530, 
+
+13:15:55:890, Timeout/error! No packet received.
+13:15:55:894, 
+
+13:15:56:226, -83,8
+13:15:56:230, 
+
+13:15:56:578, -80,8
+13:15:56:578, 
+
+13:15:56:926, -91,5
+13:15:56:930, 
+
+13:15:57:278, -81,8
+13:15:57:278, 
+
+13:15:57:630, -91,4
+13:15:57:630, 
+
+13:15:57:978, -75,8
+13:15:57:978, 
+
+13:15:58:328, -80,9
+13:15:58:332, 
+
+13:15:58:679, Timeout/error! No packet received.
+13:15:58:683, 
+
+13:15:59:027, -88,7
+13:15:59:032, 
+
+13:15:59:380, -94,1
+13:15:59:380, 
+
+13:15:59:731, -91,4
+13:15:59:731, 
+
+13:16:00:079, -96,-1
+13:16:00:079, 
+
+13:16:00:431, -89,2
+13:16:00:431, 
+
+13:16:00:791, Timeout/error! No packet received.
+13:16:00:795, 
+
+13:16:01:143, Timeout/error! No packet received.
+13:16:01:147, 
+
+13:16:01:481, Timeout/error! No packet received.
+13:16:01:485, 
+
+13:16:01:829, -95,0
+13:16:01:833, 
+
+13:16:02:181, -94,-1
+13:16:02:181, 
+
+13:16:02:529, -94,3
+13:16:02:533, 
+
+13:16:02:881, -96,-3
+13:16:02:885, 
+
+13:16:03:232, -97,-1
+13:16:03:232, 
+
+13:16:03:580, Timeout/error! No packet received.
+13:16:03:588, 
+
+13:16:03:932, -96,-1
+13:16:03:932, 
+
+13:16:04:282, -94,0
+13:16:04:282, 
+
+13:16:04:646, Timeout/error! No packet received.
+13:16:04:651, 
+
+13:16:04:983, Timeout/error! No packet received.
+13:16:04:989, 
+
+13:16:05:333, -95,-2
+13:16:05:333, 
+
+13:16:05:684, -92,0
+13:16:05:684, 
+
+13:16:06:032, Timeout/error! No packet received.
+13:16:06:040, 
+
+13:16:06:396, Timeout/error! No packet received.
+13:16:06:400, 
+
+13:16:06:732, -96,0
+13:16:06:736, 
+
+13:16:07:084, Timeout/error! No packet received.
+13:16:07:088, 
+
+13:16:07:434, -96,0
+13:16:07:434, 
+
+13:16:07:794, Timeout/error! No packet received.
+13:16:07:802, 
+
+13:16:08:134, Timeout/error! No packet received.
+13:16:08:138, 
+
+13:16:08:498, Timeout/error! No packet received.
+13:16:08:502, 
+
+13:16:08:834, -98,-6
+13:16:08:834, 
+
+13:16:09:186, Timeout/error! No packet received.
+13:16:09:191, 
+
+13:16:09:535, -98,-7
+13:16:09:535, 
+
+13:16:09:895, Timeout/error! No packet received.
+13:16:09:903, 
+
+13:16:10:247, Timeout/error! No packet received.
+13:16:10:251, 
+
+13:16:10:587, -96,0
+13:16:10:587, 
+
+13:16:10:935, -97,-4
+13:16:10:939, 
+
+13:16:11:287, -98,-2
+13:16:11:287, 
+
+13:16:11:647, Timeout/error! No packet received.
+13:16:11:655, 
+
+13:16:11:999, Timeout/error! No packet received.
+13:16:12:003, 
+
+13:16:12:335, -95,-1
+13:16:12:339, 
+
+13:16:12:687, -98,-7
+13:16:12:687, 
+
+13:16:13:039, -98,-2
+13:16:13:039, 
+
+13:16:13:387, -96,1
+13:16:13:387, 
+
+13:16:13:739, -99,-6
+13:16:13:739, 
+
+13:16:14:087, -97,0
+13:16:14:087, 
+
+13:16:14:438, -99,-4
+13:16:14:438, 
+
+13:16:14:802, Timeout/error! No packet received.
+13:16:14:810, 
+
+13:16:15:150, Timeout/error! No packet received.
+13:16:15:158, 
+
+13:16:15:502, Timeout/error! No packet received.
+13:16:15:506, 
+
+13:16:15:838, -98,-1
+13:16:15:838, 
+
+13:16:16:186, -97,0
+13:16:16:190, 
+
+13:16:16:538, Timeout/error! No packet received.
+13:16:16:546, 
+
+13:16:16:890, -97,-8
+13:16:16:890, 
+
+13:16:17:238, -97,-8
+13:16:17:242, 
+
+13:16:17:599, Timeout/error! No packet received.
+13:16:17:607, 
+
+13:16:17:951, Timeout/error! No packet received.
+13:16:17:959, 
+
+13:16:18:291, -99,-7
+13:16:18:292, 
+
+13:16:18:640, -98,-8
+13:16:18:640, 
+
+13:16:19:000, Timeout/error! No packet received.
+13:16:19:008, 
+
+13:16:19:352, Timeout/error! No packet received.
+13:16:19:356, 
+
+13:16:19:692, -99,-8
+13:16:19:692, 
+
+13:16:20:052, Timeout/error! No packet received.
+13:16:20:060, 
+
+13:16:20:392, -98,-7
+13:16:20:392, 
+
+13:16:20:752, Timeout/error! No packet received.
+13:16:20:760, 
+
+13:16:21:104, Timeout/error! No packet received.
+13:16:21:108, 
+
+13:16:21:441, -98,-3
+13:16:21:441, 
+
+13:16:21:805, Timeout/error! No packet received.
+13:16:21:809, 
+
+13:16:22:141, -97,-3
+13:16:22:145, 
+
+13:16:22:493, -96,0
+13:16:22:493, 
+
+13:16:22:853, Timeout/error! No packet received.
+13:16:22:861, 
+
+13:16:23:193, -98,-5
+13:16:23:193, 
+
+13:16:23:545, -98,-9
+13:16:23:545, 
+
+13:16:23:893, Timeout/error! No packet received.
+13:16:23:901, 
+
+13:16:24:257, Timeout/error! No packet received.
+13:16:24:261, 
+
+13:16:24:594, -97,-7
+13:16:24:594, 
+
+13:16:24:942, -99,-7
+13:16:24:946, 
+
+13:16:25:294, -98,-7
+13:16:25:294, 
+
+13:16:25:646, -99,-4
+13:16:25:646, 
+
+13:16:25:994, Timeout/error! No packet received.
+13:16:25:998, 
+
+13:16:26:346, -99,-6
+13:16:26:346, 
+
+13:16:26:693, -100,-7
+13:16:26:697, 
+
+13:16:27:045, -98,-12
+13:16:27:045, 
+
+13:16:27:395, -98,-6
+13:16:27:395, 
+
+13:16:27:759, Timeout/error! No packet received.
+13:16:27:763, 
+
+13:16:28:107, Timeout/error! No packet received.
+13:16:28:111, 
+
+13:16:28:447, Timeout/error! No packet received.
+13:16:28:451, 
+
+13:16:28:795, -99,-12
+13:16:28:799, 
+
+13:16:29:147, -100,-12
+13:16:29:147, 
+
+13:16:29:507, Timeout/error! No packet received.
+13:16:29:515, 
+
+13:16:29:859, Timeout/error! No packet received.
+13:16:29:863, 
+
+13:16:30:195, Timeout/error! No packet received.
+13:16:30:203, 
+
+13:16:30:548, Timeout/error! No packet received.
+13:16:30:552, 
+
+13:16:30:908, Timeout/error! No packet received.
+13:16:30:915, 
+
+13:16:31:259, Timeout/error! No packet received.
+13:16:31:263, 
+
+13:16:31:611, Timeout/error! No packet received.
+13:16:31:613, 
+
+13:16:31:961, Timeout/error! No packet received.
+13:16:31:965, 
+
+13:16:32:297, -99,-6
+13:16:32:300, 
+
+13:16:32:660, Timeout/error! No packet received.
+13:16:32:664, 
+
+13:16:33:008, Timeout/error! No packet received.
+13:16:33:016, 
+
+13:16:33:362, Timeout/error! No packet received.
+13:16:33:366, 
+
+13:16:33:710, Timeout/error! No packet received.
+13:16:33:718, 
+
+13:16:34:062, Timeout/error! No packet received.
+13:16:34:066, 
+
+13:16:34:410, Timeout/error! No packet received.
+13:16:34:418, 
+
+13:16:34:762, Timeout/error! No packet received.
+13:16:34:766, 
+
+13:16:35:110, Timeout/error! No packet received.
+13:16:35:118, 
+
+13:16:35:450, Timeout/error! No packet received.
+13:16:35:454, 
+
+13:16:35:814, Timeout/error! No packet received.
+13:16:35:818, 
+
+13:16:36:162, Timeout/error! No packet received.
+13:16:36:166, 
+
+13:16:36:511, Timeout/error! No packet received.
+13:16:36:518, 
+
+13:16:36:862, Timeout/error! No packet received.
+13:16:36:868, 
+
+13:16:37:200, Timeout/error! No packet received.
+13:16:37:204, 
+
+13:16:37:564, Timeout/error! No packet received.
+13:16:37:568, 
+
+13:16:37:912, Timeout/error! No packet received.
+13:16:37:920, 
+
+13:16:38:252, -100,-13
+13:16:38:252, 
+
+13:16:38:612, Timeout/error! No packet received.
+13:16:38:617, 
+
+13:16:38:965, Timeout/error! No packet received.
+13:16:38:971, 
+
+13:16:39:303, -99,-6
+13:16:39:304, 
+
+13:16:39:652, -99,-8
+13:16:39:652, 
+
+13:16:40:000, -100,-11
+13:16:40:004, 
+
+13:16:40:352, -100,-14
+13:16:40:352, 
+
+13:16:40:716, Timeout/error! No packet received.
+13:16:40:721, 
+
+13:16:41:053, -100,-8
+13:16:41:053, 
+
+13:16:41:413, Timeout/error! No packet received.
+13:16:41:421, 
+
+13:16:41:753, -100,-12
+13:16:41:753, 
+
+13:16:42:117, Timeout/error! No packet received.
+13:16:42:121, 
+
+13:16:42:466, Timeout/error! No packet received.
+13:16:42:470, 
+
+13:16:42:814, Timeout/error! No packet received.
+13:16:42:822, 
+
+13:16:43:154, Timeout/error! No packet received.
+13:16:43:158, 
+
+13:16:43:514, Timeout/error! No packet received.
+13:16:43:522, 
+
+13:16:43:866, Timeout/error! No packet received.
+13:16:43:870, 
+
+13:16:44:218, Timeout/error! No packet received.
+13:16:44:222, 
+
+13:16:44:566, Timeout/error! No packet received.
+13:16:44:574, 
+
+13:16:44:918, Timeout/error! No packet received.
+13:16:44:922, 
+
+13:16:45:254, Timeout/error! No packet received.
+13:16:45:262, 
+
+13:16:45:615, Timeout/error! No packet received.
+13:16:45:623, 
+
+13:16:45:967, Timeout/error! No packet received.
+13:16:45:975, 
+
+13:16:46:307, -99,-15
+13:16:46:308, 
+
+13:16:46:668, Timeout/error! No packet received.
+13:16:46:672, 
+
+13:16:47:008, -101,-10
+13:16:47:008, 
+
+13:16:47:368, Timeout/error! No packet received.
+13:16:47:376, 
+
+13:16:47:708, Timeout/error! No packet received.
+13:16:47:712, 
+
+13:16:48:056, -100,-12
+13:16:48:060, 
+
+13:16:48:420, Timeout/error! No packet received.
+13:16:48:424, 
+
+13:16:48:756, Timeout/error! No packet received.
+13:16:48:764, 
+
+13:16:49:120, Timeout/error! No packet received.
+13:16:49:124, 
+
+13:16:49:471, Timeout/error! No packet received.
+13:16:49:475, 
+
+13:16:49:819, Timeout/error! No packet received.
+13:16:49:828, 
+
+13:16:50:172, Timeout/error! No packet received.
+13:16:50:176, 
+
+13:16:50:508, -99,-12
+13:16:50:510, 
+
+13:16:50:870, Timeout/error! No packet received.
+13:16:50:878, 
+
+13:16:51:210, -100,-13
+13:16:51:210, 
+
+13:16:51:559, -100,-11
+13:16:51:559, 
+
+13:16:51:907, -99,-10
+13:16:51:911, 
+
+13:16:52:271, Timeout/error! No packet received.
+13:16:52:275, 
+
+13:16:52:619, Timeout/error! No packet received.
+13:16:52:629, 
+
+13:16:52:973, Timeout/error! No packet received.
+13:16:52:977, 
+
+13:16:53:309, Timeout/error! No packet received.
+13:16:53:313, 
+
+13:16:53:673, Timeout/error! No packet received.
+13:16:53:677, 
+
+13:16:54:020, Timeout/error! No packet received.
+13:16:54:024, 
+
+13:16:54:373, Timeout/error! No packet received.
+13:16:54:376, 
+
+13:16:54:724, Timeout/error! No packet received.
+13:16:54:729, 
+
+13:16:55:061, -99,-12
+13:16:55:063, 
+
+13:16:55:423, Timeout/error! No packet received.
+13:16:55:427, 
+
+13:16:55:771, Timeout/error! No packet received.
+13:16:55:779, 
+
+13:16:56:123, Timeout/error! No packet received.
+13:16:56:129, 
+
+13:16:56:473, Timeout/error! No packet received.
+13:16:56:477, 
+
+13:16:56:813, Timeout/error! No packet received.
+13:16:56:817, 
+
+13:16:57:161, -99,-10
+13:16:57:165, 
+
+13:16:57:522, Timeout/error! No packet received.
+13:16:57:530, 
+
+13:16:57:874, Timeout/error! No packet received.
+13:16:57:878, 
+
+13:16:58:226, Timeout/error! No packet received.
+13:16:58:230, 
+
+13:16:58:574, Timeout/error! No packet received.
+13:16:58:582, 
+
+13:16:58:914, -99,-13
+13:16:58:914, 
+
+13:16:59:262, Timeout/error! No packet received.
+13:16:59:270, 
+
+13:16:59:626, Timeout/error! No packet received.
+13:16:59:629, 
+
+13:16:59:977, Timeout/error! No packet received.
+13:16:59:982, 
+
+13:17:00:327, Timeout/error! No packet received.
+13:17:00:332, 
+
+13:17:00:676, Timeout/error! No packet received.
+13:17:00:680, 
+
+13:17:01:012, -99,-13
+13:17:01:016, 
+
+13:17:01:376, Timeout/error! No packet received.
+13:17:01:380, 
+
+13:17:01:728, Timeout/error! No packet received.
+13:17:01:732, 
+
+13:17:02:076, Timeout/error! No packet received.
+13:17:02:084, 
+
+13:17:02:428, Timeout/error! No packet received.
+13:17:02:432, 
+
+13:17:02:764, Timeout/error! No packet received.
+13:17:02:772, 
+
+13:17:03:128, Timeout/error! No packet received.
+13:17:03:132, 
+
+13:17:03:464, -100,-12
+13:17:03:468, 
+
+13:17:03:828, Timeout/error! No packet received.
+13:17:03:832, 
+
+13:17:04:176, Timeout/error! No packet received.
+13:17:04:184, 
+
+13:17:04:516, -100,-10
+13:17:04:516, 
+
+13:17:04:876, Timeout/error! No packet received.
+13:17:04:880, 
+
+13:17:05:228, Timeout/error! No packet received.
+13:17:05:235, 
+
+13:17:05:579, Timeout/error! No packet received.
+13:17:05:583, 
+
+13:17:05:931, Timeout/error! No packet received.
+13:17:05:935, 
+
+13:17:06:263, -100,-11
+13:17:06:263, 
+
+13:17:06:628, Timeout/error! No packet received.
+13:17:06:637, 
+
+13:17:06:981, Timeout/error! No packet received.
+13:17:06:985, 
+
+13:17:07:329, Timeout/error! No packet received.
+13:17:07:336, 
+
+13:17:07:680, Timeout/error! No packet received.
+13:17:07:684, 
+
+13:17:08:028, Timeout/error! No packet received.
+13:17:08:036, 
+
+13:17:08:380, Timeout/error! No packet received.
+13:17:08:388, 
+
+13:17:08:732, Timeout/error! No packet received.
+13:17:08:737, 
+
+13:17:09:081, Timeout/error! No packet received.
+13:17:09:085, 
+
+13:17:09:433, Timeout/error! No packet received.
+13:17:09:437, 
+
+13:17:09:781, Timeout/error! No packet received.
+13:17:09:786, 
+
+13:17:10:130, Timeout/error! No packet received.
+13:17:10:138, 
+
+13:17:10:482, Timeout/error! No packet received.
+13:17:10:486, 
+
+13:17:10:830, Timeout/error! No packet received.
+13:17:10:838, 
+
+13:17:11:182, Timeout/error! No packet received.
+13:17:11:186, 
+
+13:17:11:531, Timeout/error! No packet received.
+13:17:11:538, 
+
+13:17:11:882, Timeout/error! No packet received.
+13:17:11:889, 
+
+13:17:12:221, -99,-13
+13:17:12:223, 
+
+13:17:12:583, Timeout/error! No packet received.
+13:17:12:587, 
+
+13:17:12:935, Timeout/error! No packet received.
+13:17:12:939, 
+
+13:17:13:282, Timeout/error! No packet received.
+13:17:13:290, 
+
+13:17:13:634, Timeout/error! No packet received.
+13:17:13:638, 
+
+13:17:13:982, Timeout/error! No packet received.
+13:17:13:990, 
+
+13:17:14:336, Timeout/error! No packet received.
+13:17:14:340, 
+
+13:17:14:683, Timeout/error! No packet received.
+13:17:14:691, 
+
+13:17:15:035, Timeout/error! No packet received.
+13:17:15:039, 
+
+13:17:15:371, -100,-13
+13:17:15:375, 
+
+13:17:15:735, Timeout/error! No packet received.
+13:17:15:739, 
+
+13:17:16:083, Timeout/error! No packet received.
+13:17:16:092, 
+
+13:17:16:436, Timeout/error! No packet received.
+13:17:16:440, 
+
+13:17:16:784, Timeout/error! No packet received.
+13:17:16:792, 
+
+13:17:17:136, Timeout/error! No packet received.
+13:17:17:144, 
+
+13:17:17:485, Timeout/error! No packet received.
+13:17:17:489, 
+
+13:17:17:837, Timeout/error! No packet received.
+13:17:17:842, 
+
+13:17:18:186, Timeout/error! No packet received.
+13:17:18:192, 
+
+13:17:18:536, Timeout/error! No packet received.
+13:17:18:540, 
+
+13:17:18:888, Timeout/error! No packet received.
+13:17:18:893, 
+
+13:17:19:237, Timeout/error! No packet received.
+13:17:19:241, 
+
+13:17:19:585, Timeout/error! No packet received.
+13:17:19:593, 
+
+13:17:19:937, Timeout/error! No packet received.
+13:17:19:941, 
+
+13:17:20:286, Timeout/error! No packet received.
+13:17:20:295, 
+
+13:17:20:638, Timeout/error! No packet received.
+13:17:20:642, 
+
+13:17:20:986, Timeout/error! No packet received.
+13:17:20:994, 
+
+13:17:21:338, Timeout/error! No packet received.
+13:17:21:342, 
+
+13:17:21:686, Timeout/error! No packet received.
+13:17:21:694, 
+
+13:17:22:038, Timeout/error! No packet received.
+13:17:22:042, 
+
+13:17:22:390, Timeout/error! No packet received.
+13:17:22:394, 
+
+13:17:22:738, Timeout/error! No packet received.
+13:17:22:746, 
+
+13:17:23:090, Timeout/error! No packet received.
+13:17:23:094, 
+
+13:17:23:440, Timeout/error! No packet received.
+13:17:23:444, 
+
+13:17:23:788, Timeout/error! No packet received.
+13:17:23:796, 
+
+13:17:24:140, Timeout/error! No packet received.
+13:17:24:144, 
+
+13:17:24:488, Timeout/error! No packet received.
+13:17:24:496, 
+
+13:17:24:840, Timeout/error! No packet received.
+13:17:24:844, 
+
+13:17:25:176, -100,-15
+13:17:25:180, 
+
+13:17:25:540, Timeout/error! No packet received.
+13:17:25:547, 
+
+13:17:25:891, Timeout/error! No packet received.
+13:17:25:897, 
+
+13:17:26:241, Timeout/error! No packet received.
+13:17:26:245, 
+
+13:17:26:590, Timeout/error! No packet received.
+13:17:26:594, 
+
+13:17:26:942, Timeout/error! No packet received.
+13:17:26:947, 
+
+13:17:27:291, Timeout/error! No packet received.
+13:17:27:295, 
+
+13:17:27:643, Timeout/error! No packet received.
+13:17:27:648, 
+
+13:17:27:992, Timeout/error! No packet received.
+13:17:27:996, 
+
+13:17:28:343, Timeout/error! No packet received.
+13:17:28:347, 
+
+13:17:28:691, Timeout/error! No packet received.
+13:17:28:696, 
+
+13:17:29:040, Timeout/error! No packet received.
+13:17:29:048, 
+
+13:17:29:393, Timeout/error! No packet received.
+13:17:29:397, 
+
+13:17:29:741, Timeout/error! No packet received.
+13:17:29:745, 
+
+13:17:30:093, Timeout/error! No packet received.
+13:17:30:097, 
+
+13:17:30:443, Timeout/error! No packet received.
+13:17:30:447, 
+
+13:17:30:791, Timeout/error! No packet received.
+13:17:30:795, 
+
+13:17:31:143, Timeout/error! No packet received.
+13:17:31:148, 
+
+13:17:31:492, Timeout/error! No packet received.
+13:17:31:497, 
+
+13:17:31:845, Timeout/error! No packet received.
+13:17:31:845, 
+
+13:17:32:193, Timeout/error! No packet received.
+13:17:32:197, 
+
+13:17:32:542, Timeout/error! No packet received.
+13:17:32:542, 
+
+13:17:32:886, Timeout/error! No packet received.
+13:17:32:886, 
+
+13:17:33:245, Timeout/error! No packet received.
+13:17:33:245, 
+
+13:17:33:594, Timeout/error! No packet received.
+13:17:33:600, 
+
+13:17:33:944, Timeout/error! No packet received.
+13:17:33:948, 
+
+13:17:34:296, Timeout/error! No packet received.
+13:17:34:300, 
+
+13:17:34:644, Timeout/error! No packet received.
+13:17:34:648, 
+
+13:17:34:996, Timeout/error! No packet received.
+13:17:35:000, 
+
+13:17:35:344, Timeout/error! No packet received.
+13:17:35:352, 
+
+13:17:35:696, Timeout/error! No packet received.
+13:17:35:700, 
+
+13:17:36:044, Timeout/error! No packet received.
+13:17:36:053, 
+
+13:17:36:397, Timeout/error! No packet received.
+13:17:36:401, 
+
+13:17:36:745, Timeout/error! No packet received.
+13:17:36:754, 
+
+13:17:37:098, Timeout/error! No packet received.
+13:17:37:102, 
+
+13:17:37:446, Timeout/error! No packet received.
+13:17:37:454, 
+
+13:17:37:798, Timeout/error! No packet received.
+13:17:37:802, 
+
+13:17:38:146, Timeout/error! No packet received.
+13:17:38:154, 
+
+13:17:38:496, Timeout/error! No packet received.
+13:17:38:503, 
+
+13:17:38:847, Timeout/error! No packet received.
+13:17:38:853, 
+
+13:17:39:197, Timeout/error! No packet received.
+13:17:39:203, 
+
+13:17:39:547, Timeout/error! No packet received.
+13:17:39:555, 
+
+13:17:39:899, Timeout/error! No packet received.
+13:17:39:904, 
+
+13:17:40:248, Timeout/error! No packet received.
+13:17:40:254, 
+
+13:17:40:598, Timeout/error! No packet received.
+13:17:40:606, 
+
+13:17:40:950, Timeout/error! No packet received.
+13:17:40:954, 
+
+13:17:41:287, Timeout/error! No packet received.
+13:17:41:291, 
+
+13:17:41:651, Timeout/error! No packet received.
+13:17:41:655, 
+
+13:17:41:999, Timeout/error! No packet received.
+13:17:42:004, 
+
+13:17:42:348, Timeout/error! No packet received.
+13:17:42:356, 
+
+13:17:42:700, Timeout/error! No packet received.
+13:17:42:704, 
+
+13:17:43:048, Timeout/error! No packet received.
+13:17:43:056, 
+
+13:17:43:400, Timeout/error! No packet received.
+13:17:43:404, 
+
+13:17:43:752, Timeout/error! No packet received.
+13:17:43:756, 
+
+13:17:44:100, Timeout/error! No packet received.
+13:17:44:104, 
+
+13:17:44:449, Timeout/error! No packet received.
+13:17:44:453, 
+
+13:17:44:801, Timeout/error! No packet received.
+13:17:44:807, 
+
+13:17:45:151, Timeout/error! No packet received.
+13:17:45:157, 
+
+13:17:45:501, Timeout/error! No packet received.
+13:17:45:507, 
+
+13:17:45:851, Timeout/error! No packet received.
+13:17:45:855, 
+
+13:17:46:203, Timeout/error! No packet received.
+13:17:46:207, 
+
+13:17:46:551, Timeout/error! No packet received.
+13:17:46:559, 
+
+13:17:46:902, Timeout/error! No packet received.
+13:17:46:906, 
+
+13:17:47:250, Timeout/error! No packet received.
+13:17:47:258, 
+
+13:17:47:604, Timeout/error! No packet received.
+13:17:47:608, 
+
+13:17:47:952, Timeout/error! No packet received.
+13:17:47:956, 
+
+13:17:48:303, Timeout/error! No packet received.
+13:17:48:307, 
+
+13:17:48:651, Timeout/error! No packet received.
+13:17:48:659, 
+
+13:17:49:003, Timeout/error! No packet received.
+13:17:49:007, 
+
+13:17:49:351, Timeout/error! No packet received.
+13:17:49:359, 
+
+13:17:49:703, Timeout/error! No packet received.
+13:17:49:707, 
+
+13:17:50:051, Timeout/error! No packet received.
+13:17:50:059, 
+
+13:17:50:405, Timeout/error! No packet received.
+13:17:50:409, 
+
+13:17:50:753, Timeout/error! No packet received.
+13:17:50:761, 
+
+13:17:51:105, Timeout/error! No packet received.
+13:17:51:109, 
+
+13:17:51:453, Timeout/error! No packet received.
+13:17:51:457, 
+
+13:17:51:805, Timeout/error! No packet received.
+13:17:51:809, 
+
+13:17:52:157, Timeout/error! No packet received.
+13:17:52:157, 
+
+13:17:52:513, Timeout/error! No packet received.
+13:17:52:517, 
+
+13:17:52:853, Timeout/error! No packet received.
+13:17:52:857, 
+
+13:17:53:205, Timeout/error! No packet received.
+13:17:53:209, 
+
+13:17:53:553, Timeout/error! No packet received.
+13:17:53:561, 
+
+13:17:53:905, Timeout/error! No packet received.
+13:17:53:911, 
+
+13:17:54:255, Timeout/error! No packet received.
+13:17:54:259, 
+
+13:17:54:607, Timeout/error! No packet received.
+13:17:54:608, 
+
+13:17:54:949, Timeout/error! No packet received.
+13:17:54:949, 
+
+13:17:55:308, Timeout/error! No packet received.
+13:17:55:312, 
+
+13:17:55:656, Timeout/error! No packet received.
+13:17:55:660, 
+
+13:17:56:008, Timeout/error! No packet received.
+13:17:56:012, 
+
+13:17:56:355, Timeout/error! No packet received.
+13:17:56:360, 
+
+13:17:56:708, Timeout/error! No packet received.
+13:17:56:712, 
+
+13:17:57:056, Timeout/error! No packet received.
+13:17:57:064, 
+
+13:17:57:408, Timeout/error! No packet received.
+13:17:57:414, 
+
+13:17:57:758, Timeout/error! No packet received.
+13:17:57:764, 
+
+13:17:58:108, Timeout/error! No packet received.
+13:17:58:112, 
+
+13:17:58:457, Timeout/error! No packet received.
+13:17:58:465, 
+
+13:17:58:809, Timeout/error! No packet received.
+13:17:58:813, 
+
+13:17:59:157, Timeout/error! No packet received.
+13:17:59:165, 
+
+13:17:59:509, Timeout/error! No packet received.
+13:17:59:513, 
+
+13:17:59:857, Timeout/error! No packet received.
+13:17:59:865, 
+
+13:18:00:945, Timeout/error! No packet received.
+13:18:00:949, 
+
+13:18:00:949, Timeout/error! No packet received.
+13:18:00:949, 
+
+13:18:00:949, Timeout/error! No packet received.
+13:18:00:949, 
+
+13:18:01:261, Timeout/error! No packet received.
+13:18:01:265, 
+
+13:18:01:609, Timeout/error! No packet received.
+13:18:01:613, 
+
+13:18:01:961, Timeout/error! No packet received.
+13:18:01:965, 
