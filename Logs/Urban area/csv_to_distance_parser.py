@@ -1,6 +1,8 @@
 import os, re, csv
 import math
 
+from datetime import datetime, timedelta
+
 # This file parses the .log files as they were created using the logging version of the firmware and extraPutty
 # into clear-cut CSV-files containing all valid entries. Any entry with a timeout or incorrect syntax is ignored.
 
@@ -33,10 +35,17 @@ def convert_to_distance(origin_latitude, origin_longitude, latitude, longitude):
 
 
 def parse_timestamp(timestamp):
+    print(timestamp.split("T",1))
     time = timestamp.split("T",1)[1] # remove the date
     time_with_points = time.replace(".", ":")
-    time_return = time.replace("Z", "")
+    time_return = time_with_points.replace("Z", "")
     return time_return
+
+
+def addtime(timestamp):
+    timestamp_obj = datetime.strptime(timestamp, '%H:%M:%S:%f')
+    timestamp_added_hours = timestamp_obj + timedelta(hours=2)
+    return timestamp_added_hours.strftime('%H:%M:%S:%f')[:-3]
 
 
 if __name__ == '__main__':
@@ -50,16 +59,21 @@ if __name__ == '__main__':
         if file.endswith("_distance.csv"):
             continue
 
+        if file.endswith("_goodshit.csv"):
+            continue
+
         new_csv_data = []
         origin_lat = None
         origin_long = None
+
+        print(file)
 
         with open(file, 'r') as csv_file:
             csv_read = csv.reader(csv_file, delimiter=',')
             next(csv_read, None) #Skip header row
 
             for row in csv_read:
-                timestamp = parse_timestamp(row[0])
+                timestamp = addtime(parse_timestamp(row[0]))
                 latitude = float(row[1])
                 longitude = float(row[2])
 
@@ -70,6 +84,7 @@ if __name__ == '__main__':
                     continue
 
                 distance = convert_to_distance(origin_lat,origin_long,latitude,longitude)
+
                 new_csv_data.append([timestamp, distance])
 
         new_filename = file.replace(".csv", "") + "_distance" + ".csv"

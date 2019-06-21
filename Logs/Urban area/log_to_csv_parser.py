@@ -16,11 +16,6 @@ if __name__ == '__main__':
                     if regex_obj:
                         timestamped_signal_values.append([regex_obj.group(1), regex_obj.group(2), regex_obj.group(3)])
                         print([regex_obj.group(1), regex_obj.group(2), regex_obj.group(3)])
-                    else:
-                        regex_obj = re.match(timeout_line_regex, line)
-                        if regex_obj:
-                            timestamped_signal_values.append([regex_obj.group(1), "null", "null"])
-                            print([regex_obj.group(1), "null", "null"])
             with open(new_filename, 'w', newline='') as csv_file:
                 csv_writer = csv.writer(csv_file)
                 for signal_value in timestamped_signal_values:
