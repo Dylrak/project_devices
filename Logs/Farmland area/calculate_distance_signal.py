@@ -38,8 +38,8 @@ if __name__ == '__main__':
                         distance_timestamp = parse_timestamp(row[0])
                         prev_distance_timestamp = parse_timestamp(prev_distance_row[0])
 
-                        # calculate the meters based on previous data
                         if signal_timestamp < distance_timestamp and signal_timestamp > prev_distance_timestamp:
+                            # calculate the meters based on previous data
                             d_gps_time =  distance_timestamp.timestamp() - prev_distance_timestamp.timestamp()
                             d_rssi_time = signal_timestamp.timestamp() - prev_distance_timestamp.timestamp()
                             ratio = d_rssi_time / d_gps_time
