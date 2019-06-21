@@ -27,12 +27,6 @@ if __name__ == '__main__':
                         timestamped_signal_values.append([timestamp.strftime('%H:%M:%S:%f')[:-3], regex_obj.group(1), regex_obj.group(2)])
                         print([timestamp.strftime('%H:%M:%S:%f')[:-3], regex_obj.group(1), regex_obj.group(2)])
                         timestamp = timestamp + timedelta(milliseconds=150)  # Add 150ms to timestamp
-                    else:
-                        regex_obj = re.match(timeout_line_regex, line)
-                        if regex_obj:
-                            timestamped_signal_values.append([timestamp.strftime('%H:%M:%S:%f')[:-3], "null"])
-                            print([timestamp.strftime('%H:%M:%S:%f')[:-3], "null"])
-                            timestamp = timestamp + timedelta(milliseconds=150)
             with open(new_filename, 'w', newline='') as csv_file:
                 csv_writer = csv.writer(csv_file)
                 for signal_value in timestamped_signal_values:

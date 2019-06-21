@@ -51,6 +51,6 @@ if __name__ == '__main__':
                         prev_distance_row = row
 
         # create csv from list
-        with open(filename + "_goodshit.csv", 'w') as writeFile:
+        with open(filename + "_full.csv", 'w') as writeFile:
             writer = csv.writer(writeFile)
             writer.writerows(super_cool_list)

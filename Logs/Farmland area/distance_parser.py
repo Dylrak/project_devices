@@ -59,7 +59,7 @@ if __name__ == '__main__':
         if file.endswith("_distance.csv"):
             continue
 
-        if file.endswith("_goodshit.csv"):
+        if file.endswith("_full.csv"):
             continue
 
         new_csv_data = []
