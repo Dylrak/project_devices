@@ -11,7 +11,6 @@ if __name__ == '__main__':
         if not file.endswith("_distance.csv"):
             continue
 
-        print(file)
         filename = file.replace("_distance.csv", "")
 
         super_cool_list = []
@@ -52,5 +51,6 @@ if __name__ == '__main__':
 
         # create csv from list
         with open(filename + "_full.csv", 'w') as writeFile:
+            print("Writing " + filename + "_full.csv...")
             writer = csv.writer(writeFile)
             writer.writerows(super_cool_list)
