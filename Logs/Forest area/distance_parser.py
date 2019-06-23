@@ -88,6 +88,6 @@ if __name__ == '__main__':
                 new_csv_data.append([timestamp, distance])
 
         new_filename = file.replace(".csv", "") + "_distance" + ".csv"
-        with open(new_filename, 'w') as writeFile:
+        with open(new_filename, 'w', newline='') as writeFile:
             writer = csv.writer(writeFile)
             writer.writerows(new_csv_data)

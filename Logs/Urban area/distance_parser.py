@@ -3,9 +3,6 @@ import math
 
 from datetime import datetime, timedelta
 
-# This file parses the .log files as they were created using the logging version of the firmware and extraPutty
-# into clear-cut CSV-files containing all valid entries. Any entry with a timeout or incorrect syntax is ignored.
-
 def convert_to_distance(origin_latitude, origin_longitude, latitude, longitude):
     """
     Calculate the Haversine distance.
